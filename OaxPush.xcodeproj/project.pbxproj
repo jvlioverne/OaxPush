@@ -14,6 +14,30 @@
 		8BA3101B1A8C06D600A2BE29 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BA3101A1A8C06D600A2BE29 /* Images.xcassets */; };
 		8BA3101E1A8C06D600A2BE29 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8BA3101C1A8C06D600A2BE29 /* LaunchScreen.xib */; };
 		8BA3102A1A8C06D600A2BE29 /* OaxPushTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BA310291A8C06D600A2BE29 /* OaxPushTests.m */; };
+		8BA310541A8C37CC00A2BE29 /* NSDate+RFC1123.html in Resources */ = {isa = PBXBuildFile; fileRef = 8BA310371A8C37CB00A2BE29 /* NSDate+RFC1123.html */; };
+		8BA310551A8C37CC00A2BE29 /* NSString+GTMNSStringHTMLAdditions.html in Resources */ = {isa = PBXBuildFile; fileRef = 8BA310381A8C37CB00A2BE29 /* NSString+GTMNSStringHTMLAdditions.html */; };
+		8BA310561A8C37CC00A2BE29 /* PushNotificationManager.html in Resources */ = {isa = PBXBuildFile; fileRef = 8BA3103A1A8C37CB00A2BE29 /* PushNotificationManager.html */; };
+		8BA310571A8C37CC00A2BE29 /* PWNetworkEngine.html in Resources */ = {isa = PBXBuildFile; fileRef = 8BA3103B1A8C37CB00A2BE29 /* PWNetworkEngine.html */; };
+		8BA310581A8C37CC00A2BE29 /* PWNetworkOperation.html in Resources */ = {isa = PBXBuildFile; fileRef = 8BA3103C1A8C37CB00A2BE29 /* PWNetworkOperation.html */; };
+		8BA310591A8C37CC00A2BE29 /* PWReachability.html in Resources */ = {isa = PBXBuildFile; fileRef = 8BA3103D1A8C37CB00A2BE29 /* PWReachability.html */; };
+		8BA3105A1A8C37CC00A2BE29 /* PWTags.html in Resources */ = {isa = PBXBuildFile; fileRef = 8BA3103E1A8C37CB00A2BE29 /* PWTags.html */; };
+		8BA3105B1A8C37CC00A2BE29 /* PWBeaconAction.html in Resources */ = {isa = PBXBuildFile; fileRef = 8BA310401A8C37CB00A2BE29 /* PWBeaconAction.html */; };
+		8BA3105C1A8C37CC00A2BE29 /* PWSupportedOrientations.html in Resources */ = {isa = PBXBuildFile; fileRef = 8BA310411A8C37CB00A2BE29 /* PWSupportedOrientations.html */; };
+		8BA3105D1A8C37CC00A2BE29 /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = 8BA310431A8C37CB00A2BE29 /* styles.css */; };
+		8BA3105E1A8C37CC00A2BE29 /* stylesPrint.css in Resources */ = {isa = PBXBuildFile; fileRef = 8BA310441A8C37CB00A2BE29 /* stylesPrint.css */; };
+		8BA3105F1A8C37CC00A2BE29 /* hierarchy.html in Resources */ = {isa = PBXBuildFile; fileRef = 8BA310451A8C37CB00A2BE29 /* hierarchy.html */; };
+		8BA310601A8C37CC00A2BE29 /* button_bar_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BA310471A8C37CB00A2BE29 /* button_bar_background.png */; };
+		8BA310611A8C37CC00A2BE29 /* disclosure.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BA310481A8C37CB00A2BE29 /* disclosure.png */; };
+		8BA310621A8C37CC00A2BE29 /* disclosure_open.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BA310491A8C37CB00A2BE29 /* disclosure_open.png */; };
+		8BA310631A8C37CC00A2BE29 /* library_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BA3104A1A8C37CB00A2BE29 /* library_background.png */; };
+		8BA310641A8C37CC00A2BE29 /* title_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BA3104B1A8C37CB00A2BE29 /* title_background.png */; };
+		8BA310651A8C37CC00A2BE29 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 8BA3104C1A8C37CB00A2BE29 /* index.html */; };
+		8BA310661A8C37CC00A2BE29 /* PushNotificationDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 8BA3104E1A8C37CB00A2BE29 /* PushNotificationDelegate.html */; };
+		8BA310671A8C37CC00A2BE29 /* Pushwoosh.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BA310501A8C37CB00A2BE29 /* Pushwoosh.framework */; };
+		8BA310681A8C37CC00A2BE29 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 8BA310511A8C37CC00A2BE29 /* LICENSE */; };
+		8BA310691A8C37CC00A2BE29 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 8BA310521A8C37CC00A2BE29 /* README.md */; };
+		8BA3106A1A8C37CC00A2BE29 /* VERSION.md in Sources */ = {isa = PBXBuildFile; fileRef = 8BA310531A8C37CC00A2BE29 /* VERSION.md */; };
+		8BA3106C1A8C381F00A2BE29 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BA3106B1A8C381F00A2BE29 /* MobileCoreServices.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +64,30 @@
 		8BA310231A8C06D600A2BE29 /* OaxPushTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OaxPushTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BA310281A8C06D600A2BE29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8BA310291A8C06D600A2BE29 /* OaxPushTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OaxPushTests.m; sourceTree = "<group>"; };
+		8BA310371A8C37CB00A2BE29 /* NSDate+RFC1123.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = "NSDate+RFC1123.html"; sourceTree = "<group>"; };
+		8BA310381A8C37CB00A2BE29 /* NSString+GTMNSStringHTMLAdditions.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = "NSString+GTMNSStringHTMLAdditions.html"; sourceTree = "<group>"; };
+		8BA3103A1A8C37CB00A2BE29 /* PushNotificationManager.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PushNotificationManager.html; sourceTree = "<group>"; };
+		8BA3103B1A8C37CB00A2BE29 /* PWNetworkEngine.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWNetworkEngine.html; sourceTree = "<group>"; };
+		8BA3103C1A8C37CB00A2BE29 /* PWNetworkOperation.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWNetworkOperation.html; sourceTree = "<group>"; };
+		8BA3103D1A8C37CB00A2BE29 /* PWReachability.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWReachability.html; sourceTree = "<group>"; };
+		8BA3103E1A8C37CB00A2BE29 /* PWTags.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWTags.html; sourceTree = "<group>"; };
+		8BA310401A8C37CB00A2BE29 /* PWBeaconAction.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWBeaconAction.html; sourceTree = "<group>"; };
+		8BA310411A8C37CB00A2BE29 /* PWSupportedOrientations.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWSupportedOrientations.html; sourceTree = "<group>"; };
+		8BA310431A8C37CB00A2BE29 /* styles.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+		8BA310441A8C37CB00A2BE29 /* stylesPrint.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = stylesPrint.css; sourceTree = "<group>"; };
+		8BA310451A8C37CB00A2BE29 /* hierarchy.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = hierarchy.html; sourceTree = "<group>"; };
+		8BA310471A8C37CB00A2BE29 /* button_bar_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_bar_background.png; sourceTree = "<group>"; };
+		8BA310481A8C37CB00A2BE29 /* disclosure.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosure.png; sourceTree = "<group>"; };
+		8BA310491A8C37CB00A2BE29 /* disclosure_open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosure_open.png; sourceTree = "<group>"; };
+		8BA3104A1A8C37CB00A2BE29 /* library_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = library_background.png; sourceTree = "<group>"; };
+		8BA3104B1A8C37CB00A2BE29 /* title_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_background.png; sourceTree = "<group>"; };
+		8BA3104C1A8C37CB00A2BE29 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = index.html; sourceTree = "<group>"; };
+		8BA3104E1A8C37CB00A2BE29 /* PushNotificationDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PushNotificationDelegate.html; sourceTree = "<group>"; };
+		8BA310501A8C37CB00A2BE29 /* Pushwoosh.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Pushwoosh.framework; sourceTree = "<group>"; };
+		8BA310511A8C37CC00A2BE29 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		8BA310521A8C37CC00A2BE29 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8BA310531A8C37CC00A2BE29 /* VERSION.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = VERSION.md; sourceTree = "<group>"; };
+		8BA3106B1A8C381F00A2BE29 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +95,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BA3106C1A8C381F00A2BE29 /* MobileCoreServices.framework in Frameworks */,
+				8BA310671A8C37CC00A2BE29 /* Pushwoosh.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -64,6 +114,7 @@
 			isa = PBXGroup;
 			children = (
 				8BA3100C1A8C06D600A2BE29 /* OaxPush */,
+				8BA310331A8C37A300A2BE29 /* Frameworks */,
 				8BA310261A8C06D600A2BE29 /* OaxPushTests */,
 				8BA3100B1A8C06D600A2BE29 /* Products */,
 			);
@@ -119,6 +170,110 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		8BA310331A8C37A300A2BE29 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8BA3106B1A8C381F00A2BE29 /* MobileCoreServices.framework */,
+				8BA310341A8C37CB00A2BE29 /* pushwoosh */,
+			);
+			name = Frameworks;
+			path = OaxPush;
+			sourceTree = "<group>";
+		};
+		8BA310341A8C37CB00A2BE29 /* pushwoosh */ = {
+			isa = PBXGroup;
+			children = (
+				8BA310351A8C37CB00A2BE29 /* Documentation */,
+				8BA3104F1A8C37CB00A2BE29 /* Framework */,
+				8BA310511A8C37CC00A2BE29 /* LICENSE */,
+				8BA310521A8C37CC00A2BE29 /* README.md */,
+				8BA310531A8C37CC00A2BE29 /* VERSION.md */,
+			);
+			path = pushwoosh;
+			sourceTree = SOURCE_ROOT;
+		};
+		8BA310351A8C37CB00A2BE29 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				8BA310361A8C37CB00A2BE29 /* Categories */,
+				8BA310391A8C37CB00A2BE29 /* Classes */,
+				8BA3103F1A8C37CB00A2BE29 /* Constants */,
+				8BA310421A8C37CB00A2BE29 /* css */,
+				8BA310451A8C37CB00A2BE29 /* hierarchy.html */,
+				8BA310461A8C37CB00A2BE29 /* img */,
+				8BA3104C1A8C37CB00A2BE29 /* index.html */,
+				8BA3104D1A8C37CB00A2BE29 /* Protocols */,
+			);
+			path = Documentation;
+			sourceTree = "<group>";
+		};
+		8BA310361A8C37CB00A2BE29 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				8BA310371A8C37CB00A2BE29 /* NSDate+RFC1123.html */,
+				8BA310381A8C37CB00A2BE29 /* NSString+GTMNSStringHTMLAdditions.html */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		8BA310391A8C37CB00A2BE29 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				8BA3103A1A8C37CB00A2BE29 /* PushNotificationManager.html */,
+				8BA3103B1A8C37CB00A2BE29 /* PWNetworkEngine.html */,
+				8BA3103C1A8C37CB00A2BE29 /* PWNetworkOperation.html */,
+				8BA3103D1A8C37CB00A2BE29 /* PWReachability.html */,
+				8BA3103E1A8C37CB00A2BE29 /* PWTags.html */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		8BA3103F1A8C37CB00A2BE29 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				8BA310401A8C37CB00A2BE29 /* PWBeaconAction.html */,
+				8BA310411A8C37CB00A2BE29 /* PWSupportedOrientations.html */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		8BA310421A8C37CB00A2BE29 /* css */ = {
+			isa = PBXGroup;
+			children = (
+				8BA310431A8C37CB00A2BE29 /* styles.css */,
+				8BA310441A8C37CB00A2BE29 /* stylesPrint.css */,
+			);
+			path = css;
+			sourceTree = "<group>";
+		};
+		8BA310461A8C37CB00A2BE29 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				8BA310471A8C37CB00A2BE29 /* button_bar_background.png */,
+				8BA310481A8C37CB00A2BE29 /* disclosure.png */,
+				8BA310491A8C37CB00A2BE29 /* disclosure_open.png */,
+				8BA3104A1A8C37CB00A2BE29 /* library_background.png */,
+				8BA3104B1A8C37CB00A2BE29 /* title_background.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		8BA3104D1A8C37CB00A2BE29 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				8BA3104E1A8C37CB00A2BE29 /* PushNotificationDelegate.html */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		8BA3104F1A8C37CB00A2BE29 /* Framework */ = {
+			isa = PBXGroup;
+			children = (
+				8BA310501A8C37CB00A2BE29 /* Pushwoosh.framework */,
+			);
+			path = Framework;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -168,6 +323,7 @@
 				TargetAttributes = {
 					8BA310091A8C06D600A2BE29 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = QXF33N93KH;
 					};
 					8BA310221A8C06D600A2BE29 = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -199,9 +355,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BA310651A8C37CC00A2BE29 /* index.html in Resources */,
+				8BA310571A8C37CC00A2BE29 /* PWNetworkEngine.html in Resources */,
+				8BA310631A8C37CC00A2BE29 /* library_background.png in Resources */,
+				8BA3105B1A8C37CC00A2BE29 /* PWBeaconAction.html in Resources */,
 				8BA310191A8C06D600A2BE29 /* Main.storyboard in Resources */,
+				8BA3105E1A8C37CC00A2BE29 /* stylesPrint.css in Resources */,
+				8BA310661A8C37CC00A2BE29 /* PushNotificationDelegate.html in Resources */,
+				8BA310621A8C37CC00A2BE29 /* disclosure_open.png in Resources */,
+				8BA3105C1A8C37CC00A2BE29 /* PWSupportedOrientations.html in Resources */,
+				8BA3105D1A8C37CC00A2BE29 /* styles.css in Resources */,
+				8BA310611A8C37CC00A2BE29 /* disclosure.png in Resources */,
+				8BA3105A1A8C37CC00A2BE29 /* PWTags.html in Resources */,
 				8BA3101E1A8C06D600A2BE29 /* LaunchScreen.xib in Resources */,
+				8BA310681A8C37CC00A2BE29 /* LICENSE in Resources */,
+				8BA310551A8C37CC00A2BE29 /* NSString+GTMNSStringHTMLAdditions.html in Resources */,
+				8BA310591A8C37CC00A2BE29 /* PWReachability.html in Resources */,
+				8BA310581A8C37CC00A2BE29 /* PWNetworkOperation.html in Resources */,
+				8BA310601A8C37CC00A2BE29 /* button_bar_background.png in Resources */,
+				8BA310541A8C37CC00A2BE29 /* NSDate+RFC1123.html in Resources */,
+				8BA310641A8C37CC00A2BE29 /* title_background.png in Resources */,
 				8BA3101B1A8C06D600A2BE29 /* Images.xcassets in Resources */,
+				8BA3105F1A8C37CC00A2BE29 /* hierarchy.html in Resources */,
+				8BA310561A8C37CC00A2BE29 /* PushNotificationManager.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,6 +397,8 @@
 			files = (
 				8BA310161A8C06D600A2BE29 /* ViewController.m in Sources */,
 				8BA310131A8C06D600A2BE29 /* AppDelegate.m in Sources */,
+				8BA3106A1A8C37CC00A2BE29 /* VERSION.md in Sources */,
+				8BA310691A8C37CC00A2BE29 /* README.md in Sources */,
 				8BA310101A8C06D600A2BE29 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -345,9 +523,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: taff rodriguez (5A8577499U)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: taff rodriguez (5A8577499U)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/pushwoosh/Framework",
+				);
 				INFOPLIST_FILE = OaxPush/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "45a1cb08-ff95-42bb-9a80-d70c456cf80f";
 			};
 			name = Debug;
 		};
@@ -355,9 +541,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: taff rodriguez (5A8577499U)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: taff rodriguez (5A8577499U)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/pushwoosh/Framework",
+				);
 				INFOPLIST_FILE = OaxPush/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "45a1cb08-ff95-42bb-9a80-d70c456cf80f";
 			};
 			name = Release;
 		};
@@ -414,6 +608,7 @@
 				8BA3102F1A8C06D600A2BE29 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8BA310301A8C06D600A2BE29 /* Build configuration list for PBXNativeTarget "OaxPushTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +617,7 @@
 				8BA310321A8C06D600A2BE29 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

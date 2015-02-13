@@ -43,5 +43,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>Pushwoosh_APPID</key>
+	<string>04C64-5FBA4</string>
+	<key>Pushwoosh_AUTO</key>
+	<false/>
 </dict>
 </plist>
